@@ -1,0 +1,11 @@
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\bin\Debug\lab1.exe.config
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\bin\Debug\lab1.exe
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\bin\Debug\lab1.pdb
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.Form1.resources
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.exe
+E:\навчання\3 курс\Основні структури даних та алгоритми їх перетворення\lab1\lab1\obj\Debug\lab1.pdb
